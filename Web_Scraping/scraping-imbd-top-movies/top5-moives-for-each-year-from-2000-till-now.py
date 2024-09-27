@@ -31,4 +31,4 @@ with open('data.txt', 'w') as f:
             f.write('\n')
 
         # time.sleep(2)  # Add delay to avoid overwhelming the server
-        break
+        # break
