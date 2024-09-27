@@ -21,11 +21,4 @@ You can install the required libraries with the following command:
 
 ```bash
 pip install beautifulsoup4 fake-useragent
-
-
-### Notes:
-1. Replace the placeholder `https://github.com/your-username/imdb-movie-scraper.git` with your actual GitHub repository link.
-2. You can create a `LICENSE` file if needed, depending on your preferred license (MIT, GPL, etc.).
-
-Let me know if you'd like any other sections added!
 ```
